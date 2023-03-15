@@ -1,0 +1,52 @@
+{ "robot_settings":[
+  {
+    "robot_name": "wheeltec-zed2i-0",
+    "resource_ip": "127.0.0.2",
+    "frp_port": 23456,
+    "switch": 0,
+    "del_flag": 0,
+    "pid": null,
+    "state": 0,
+    "handle": null
+  },
+  {
+    "robot_name": "wheeltec-zed2i-1",
+    "resource_ip": "XXX.XXX.XXX.XXX",
+    "frp_port": 9090,
+    "switch": 0,
+    "del_flag": 0,
+    "pid": null,
+    "state": 0,
+    "handle": null
+  },
+  {
+    "robot_name": "wheeltec-zed2i-2",
+    "resource_ip": "XXX.XXX.XXX.XXX",
+    "frp_port": 9090,
+    "switch": 1,
+    "del_flag": 0,
+    "pid": null,
+    "state": 0,
+    "handle": null
+  },
+  {
+    "robot_name": "wheeltec-zed2i-3",
+    "resource_ip": "XXX.XXX.XXX.XXX",
+    "frp_port": 9095,
+    "switch": 0,
+    "del_flag": 0,
+    "pid": null,
+    "state": 0,
+    "handle": null
+  },
+  {
+    "robot_name": "wheeltec-zed2i-4",
+    "resource_ip": "XXX.XXX.XXX.XXX",
+    "frp_port": 8923,
+    "switch": 0,
+    "del_flag": 0,
+    "pid": null,
+    "state": 0,
+    "handle": null
+  }
+]}
